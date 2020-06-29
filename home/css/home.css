@@ -1,0 +1,16 @@
+.navbar{
+    box-shadow: 2px 2px 5px #000;
+    opacity: .9;
+}
+
+.navbar .nav-item .nav-link{
+    color: #337ab7;
+}
+
+h2,h3{
+    color: #f0ad4e;
+}
+
+.table{
+    color:#337ab7; 
+}

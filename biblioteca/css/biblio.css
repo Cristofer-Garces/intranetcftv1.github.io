@@ -1,0 +1,59 @@
+.navbar{
+    box-shadow: 2px 2px 5px #000;
+    opacity: .9;
+}
+
+.navbar .nav-item .nav-link{
+    color: #337ab7;
+}
+
+.form-control-borderless {
+    border: none;
+}
+
+.form-control-borderless:hover, .form-control-borderless:active, .form-control-borderless:focus {
+    border: none;
+    outline: none;
+    box-shadow: none;
+}
+
+.btn{
+  background-color: #337ab7;
+  color: #fff;
+  border: 1px solid #337ab7;
+  outline: none;
+  transition: 0.2s;
+}
+
+#btno{
+  background-color: #337ab7;
+  color: #fff;
+  border: 1px solid #337ab7;
+}
+.active, #btno:hover {
+  background-color: #f0ad4e;
+  color: #337ab7;
+}
+
+.active, .btn:hover {
+  background-color: #f0ad4e;
+  color: #337ab7;
+}
+
+
+.form-control-borderless {
+    border: none;
+}
+
+.form-control-borderless:hover, .form-control-borderless:active, .form-control-borderless:focus {
+    border: none;
+    outline: none;
+    box-shadow: none;
+}
+
+
+#color {
+    color: #337ab7;
+    font-size: 30px;
+    
+}

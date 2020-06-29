@@ -1,0 +1,28 @@
+.navbar{
+    box-shadow: 2px 2px 5px #000;
+    opacity: .9;
+}
+
+.navbar .nav-item .nav-link{
+    color: #337ab7;
+}
+
+h1{
+    color: #f0ad4e;
+}
+
+.btn{
+    background-color: #f0ad4e;
+    color: #fff;
+}
+
+.btn:hover{
+    background-color: #337ab7;
+    color: #fff;
+    
+}
+
+img{
+     width: 300px;
+    height: 150px;
+}
